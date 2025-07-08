@@ -1,4 +1,12 @@
-# 🍽️ Zomato Clone App with DevSecOps CI/CD 🚀
+# 🍽️ Zomato Clone App with DevSecOps CI/CD 🚀![domain_with_ssl](https://github.com/user-attachments/assets/b472d276-c408-46bc-9e07-07748474bbcc)
+![jenkins](https://github.com/user-attachments/assets/c15d55bc-2d5b-4362-a0cf-18d6ecb36c94)
+![argocd](https://github.com/user-attachments/assets/52b3e618-ab1b-481a-bc0b-49c71d30e5d3)
+![grafana](https://github.com/user-attachments/assets/ed9b1c3e-f591-4298-8181-c2ff375fac77)
+
+
+
+
+
 
 A full-fledged DevSecOps pipeline for a Zomato clone application using **Jenkins**, **Docker**, **SonarQube**, **OWASP Dependency Check**, and **Trivy**. This project sets up automated CI/CD with integrated security tools on an AWS EC2 instance.
 
